@@ -1,1 +1,371 @@
-# Roots-Of-Our-Meals
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Roots of Our Meals | Community Project</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+margin:0;
+font-family:'Poppins', sans-serif;
+background:#f4f8f4;
+color:#333;
+}
+
+/* HEADER */
+
+header{
+background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("Farm.jpg");
+background-size:cover;
+background-position:center;
+color:white;
+text-align:center;
+padding:140px 20px;
+}
+
+header h1{
+font-size:55px;
+margin:0;
+}
+
+header p{
+font-size:20px;
+margin-top:10px;
+}
+
+/* NAVBAR */
+
+nav{
+background:#1b5e20;
+padding:15px;
+position:sticky;
+top:0;
+z-index:1000;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:0 15px;
+text-decoration:none;
+font-weight:600;
+}
+
+nav a:hover{
+color:#a5d6a7;
+}
+
+/* SECTIONS */
+
+section{
+max-width:1000px;
+margin:40px auto;
+background:white;
+padding:40px;
+border-radius:12px;
+box-shadow:0 4px 15px rgba(0,0,0,0.1);
+}
+
+h2{
+color:#2e7d32;
+margin-top:0;
+}
+
+section img{
+display:block;
+margin:20px auto;
+max-width:100%;
+border-radius:10px;
+}
+
+/* LISTS */
+
+ul{
+line-height:1.8;
+}
+
+/* GALLERY */
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:15px;
+margin-top:20px;
+}
+
+.gallery img{
+width:100%;
+height:220px;
+object-fit:cover;
+border-radius:10px;
+transition:0.3s;
+}
+
+.gallery img:hover{
+transform:scale(1.05);
+}
+
+/* KNOWLEDGE HUB BOX */
+
+.wow-box{
+background:#f1f8e9;
+padding:20px;
+margin:20px 0;
+border-left:6px solid #2e7d32;
+border-radius:8px;
+}
+
+/* FOOTER */
+
+footer{
+background:#1b5e20;
+color:white;
+text-align:center;
+padding:25px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>🌱 Roots of Our Meals</h1>
+<p>Exploring Sustainable Agriculture and the Journey of Our Food</p>
+
+</header>
+
+<nav>
+
+<a href="#about">About</a>
+<a href="#goals">Goals</a>
+<a href="#planning">Planning</a>
+<a href="#action">Action</a>
+<a href="#challenges">Challenges</a>
+<a href="#learning">Learning</a>
+<a href="#timeline">Timeline</a>
+<a href="#gallery">Gallery</a>
+<a href="#impact">Impact</a>
+<a href="#knowledge">Knowledge Hub</a>
+<a href="#contact">Credits</a>
+
+</nav>
+
+<section id="about">
+
+<h2>About the Project</h2>
+
+<img src="About The Project.png">
+
+<p>
+We visited GroPure Organics to explore sustainable agriculture practices. During the interview we interacted with experts to learn how farmers conserve water, maintain soil health, manage waste, and grow crops in environmentally friendly ways.
+</p>
+
+<p>
+After the visit we created educational content highlighting sustainable techniques like composting, crop rotation, organic fertilisers, and renewable energy. Our aim was to raise awareness among the school community about how sustainable farming supports food security, biodiversity, and climate action.
+</p>
+
+</section>
+
+<section id="goals">
+
+<h2>Global Context & Goals</h2>
+
+<ul>
+<li>Globalisation and Sustainability</li>
+<li>Promote sustainable food systems</li>
+<li>Educate younger children about agriculture</li>
+<li>Support farmers and the local community</li>
+</ul>
+
+</section>
+
+<section id="planning">
+
+<h2>Planning & Brainstorming</h2>
+
+<p>
+Our group conducted brainstorming sessions to explore ideas related to food, sustainability, education, and community service. We realised that sustainable agriculture connected our interests and addressed an important real-world issue.
+</p>
+
+<img src="Collaboration.png">
+
+<p>
+After research we finalised our project idea: <b>Roots of Our Meals</b>. The project focuses on understanding how food is grown sustainably and spreading awareness about eco-friendly farming practices.
+</p>
+
+<img src="Info.png">
+
+</section>
+
+<section id="action">
+
+<h2>Action Taken</h2>
+
+<ul>
+<li>Collaborated with GroPure Organics</li>
+<li>Conducted interviews with experts</li>
+<li>Created awareness presentations</li>
+<li>Prepared sustainable grocery hampers</li>
+<li>Taught children about agriculture</li>
+</ul>
+
+<img src="Interview.png">
+<img src="Hampers.jpeg">
+<img src="Inside The Hampers.jpeg">
+<img src="Action.jpeg">
+
+</section>
+
+<section id="challenges">
+
+<h2>Challenges & Setbacks</h2>
+
+<p>
+During our project we faced several challenges. Many schools were unable to host our educational sessions due to scheduling conflicts. We contacted over 20 schools before finally finding organisations willing to collaborate.
+</p>
+
+<p>
+Another challenge was visiting GroPure farms. Because the farms were far away and undergoing development, we could not visit in person. Instead we conducted online interviews and used shared videos to learn about sustainable farming methods.
+</p>
+
+<img src="Ghar Ashram.png">
+
+</section>
+
+<section id="learning">
+
+<h2>Learning & Outcomes</h2>
+
+<ul>
+<li>Learned about organic fertilisers such as Jivamrut</li>
+<li>Understood sustainable farming practices</li>
+<li>Developed teamwork, leadership, and communication skills</li>
+</ul>
+
+</section>
+
+<section id="timeline">
+
+<h2>Timeline</h2>
+
+<img src="Timeline 1.png">
+<img src="Timeline 2.png">
+<img src="Timeline 3.png">
+
+</section>
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<img src="new.png">
+<img src="Logo.png">
+<img src="Asharm.jpg">
+<img src="test.png">
+<img src="Interview.png">
+<img src="Collaboration.png">
+<img src="Brainstorming.png">
+<img src="Action.jpeg">
+<img src="Hampers.jpeg">
+<img src="Inside The Hampers.jpeg">
+<img src="Distributing Hampers.jpeg">
+<img src="Activity 1.jpeg">
+<img src="Activity 2.jpeg">
+
+</div>
+
+</section>
+
+<section id="impact">
+
+<h2>Impact & Reflection</h2>
+
+<h3>Community Impact</h3>
+<p>
+Our project spread awareness about sustainable agriculture and healthy food systems. Our presentations and eco-friendly hampers helped children understand where food comes from and why sustainability matters.
+</p>
+
+<h3>Personal Growth</h3>
+<p>
+We developed communication, teamwork, planning, and leadership skills while working with organisations and overcoming real-world challenges.
+</p>
+
+</section>
+
+<section id="knowledge">
+
+<h2>Knowledge Hub</h2>
+
+<div class="wow-box">
+<h3>Quote</h3>
+<p>“It is better to have a family farmer than a family doctor.”</p>
+</div>
+
+<div class="wow-box">
+<h3>Did You Know?</h3>
+<ul>
+<li>Organic farming reduces chemical pollution</li>
+<li>Crop rotation improves soil health</li>
+<li>Composting turns waste into nutrients</li>
+<li>Water conservation protects crops</li>
+</ul>
+</div>
+
+<div class="wow-box">
+<h3>Sustainability Tips</h3>
+<ul>
+<li>Buy organic products</li>
+<li>Reduce food waste</li>
+<li>Grow plants at home</li>
+<li>Use reusable bags</li>
+</ul>
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact & Credits</h2>
+
+<p><b>School:</b> Victorious Kidss Educares – IB MYP Community Project</p>
+
+<p><b>Guidance:</b></p>
+
+<ul>
+<li>Reema Ma’am – CP Coordinator</li>
+<li>Pooja Ma’am – MYP Coordinator</li>
+<li>Reneesh Sir – Secondary Principal</li>
+<li>Ajay Sir – Supervisor</li>
+</ul>
+
+<p><b>Organisations:</b></p>
+
+<ul>
+<li>GroPure Organics</li>
+<li>Nirankar Vastigruh</li>
+</ul>
+
+</section>
+
+<footer>
+
+<p>IB MYP Community Project Portfolio</p>
+<p>© Website made by Khushi Gowtham</p>
+
+</footer>
+
+</body>
+</html>
